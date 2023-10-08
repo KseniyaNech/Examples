@@ -1,0 +1,15 @@
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.exe
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.deps.json
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.runtimeconfig.json
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.dll
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.pdb
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.csproj.AssemblyReference.cache
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.AssemblyInfoInputs.cache
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.AssemblyInfo.cs
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.csproj.CoreCompileInputs.cache
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.dll
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\refint\Example001_Hello_Console.dll
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.pdb
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.genruntimeconfig.cache
+D:\ГигБреинс\Знакомство с языками программирования С#\Examples\Example001_Hello_Console\obj\Debug\net6.0\ref\Example001_Hello_Console.dll

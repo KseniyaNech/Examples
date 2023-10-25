@@ -1,4 +1,8 @@
-﻿System.Console.Write("Введи свое имя ");
-string username = Console.ReadLine();
-Console.Write("Привет, ");
-Console.Write(username);
+﻿//Просит внести свое имя
+
+System.Console.Write("Введи свое имя ");//приглашенние ко вводу имени
+//     наименование контейнера
+//строки
+string username = Console.ReadLine(); //переменная - контейнер для считывания данных с пред.строки, которые введет пользователь
+Console.Write("Привет, "); //вывести приветствие в консоль
+Console.Write(username);//выводит имя пользователя

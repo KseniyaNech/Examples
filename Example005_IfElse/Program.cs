@@ -1,13 +1,15 @@
-﻿Console.Write("Введите имя пользователя: ");
-string username = Console.ReadLine();
+﻿//Приветствие по особенному, конструкция ветвления
 
-if(username.ToLower() == "маша")
+Console.Write("Введите имя пользователя: ");
+string username = Console.ReadLine(); //строки, имя пользователя
+//если имя равно = "Маша"
+if(username.ToLower() == "маша") //выполняется условие, если это "Маша", то
 {
-    Console.WriteLine("Ура, это же Маша!");
+    Console.WriteLine("Ура, это же Маша!"); //выводим на печать это приветсвие
 }
-else
+else // если это не "Маша", то пишем так
 {
-    Console.Write("Привет, ");
-    Console.WriteLine(username);
+    Console.Write("Привет, ");// печать приветсвия для других пользователей
+    Console.WriteLine(username);//печать имени другого пользователя
 
 }
